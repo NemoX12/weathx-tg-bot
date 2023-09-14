@@ -1,6 +1,6 @@
 - <a href="https://t.me/weathx_bot">WeathX Bot</a>
 - <a href="#how-to-use">How To Use</a>
-- <a href="#create-a-bot">WeathX Bot</a>
+- <a href="#create-a-bot">Create A Bot</a>
 
 <h2 id="title" align="center"><strong>WeathX Telegram Bot</strong></h2>
 
