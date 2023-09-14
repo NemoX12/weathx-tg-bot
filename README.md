@@ -16,9 +16,8 @@ npm install
 
 2. Create ".env" file
 
-<code id="code">
-BOT_TOKEN=PASTE_BOT_API_FROM_<a href="https://t.me/BotFather">BOT_FATHER</a>
-WEATHER_API=PASTE_PRIVATE_API_FROM_<a href="https://openweathermap.org/api">OPENWEATHER</a>
+<code id="code">BOT*TOKEN=PASTE_BOT_API_FROM*<a href="https://t.me/BotFather">BOT*FATHER</a>
+WEATHER_API=PASTE_PRIVATE_API_FROM*<a href="https://openweathermap.org/api">OPENWEATHER</a>
 </code>
 
 3.
