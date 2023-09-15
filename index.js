@@ -33,7 +33,6 @@ bot.on("message", async (ctx) => {
           caption: `Location: ${request.data.name}, ${request.data.sys.country}\nDescription: ${request.data.weather[0].main}\nTemp: ${temp}°C\nHumidity: ${request.data.main.humidity}%`,
         }
       );
-      console.log(request);
     } catch (error) {
       console.log(error);
       ctx.reply("Enter Valid City...");
